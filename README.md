@@ -19,4 +19,7 @@ Missing features from if-diff:
 2.  No fancy object comparison.
 3.  if, lhs, rhs, m are properties, not attributes (as they are not restricted to strings).
 4.  Others are attributes, not properties
+5.  No template instantiation
+
+
 
